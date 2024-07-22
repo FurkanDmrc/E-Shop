@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = E_Shop
+build_property.RootNamespace = E_Shop
+build_property.ProjectDir = C:\Users\furka\Desktop\BTK EĞİTİM\E-Shop\E-Shop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\furka\Desktop\BTK EĞİTİM\E-Shop\E-Shop
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/BeyazEsya/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV5YXpFc3lhXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/BeyazEsya/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV5YXpFc3lhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/BeyazEsya/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV5YXpFc3lhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/BeyazEsya/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV5YXpFc3lhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/BeyazEsya/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmV5YXpFc3lhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Elektronik/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxla3Ryb25pa1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Elektronik/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxla3Ryb25pa1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Elektronik/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxla3Ryb25pa1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Elektronik/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxla3Ryb25pa1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Elektronik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxla3Ryb25pa1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Telefon/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvblxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Telefon/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Telefon/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Telefon/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Telefon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVsZWZvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/furka/Desktop/BTK EĞİTİM/E-Shop/E-Shop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wbprhnmcdr
